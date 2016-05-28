@@ -1,0 +1,17 @@
+body {
+  margin-top: 50px;
+}
+
+#honors {
+  border-style: solid;
+  border-radius: 10px;
+  height:365px;
+  text-align:center;
+}
+
+ul {
+  list-style-type:none;
+  padding: 0;
+  margin: 0;
+}
+
